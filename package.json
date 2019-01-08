@@ -12,6 +12,7 @@
     "start": "nf start -j Procfile.dev"
   },
   "dependencies": {
+    "google-assistant": "*",
     "ajax-promise": "^0.8.1",
     "async": "^2.6.1",
     "babel-core": "^6.26.3",
