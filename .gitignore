@@ -1,0 +1,7 @@
+node_modules
+/client/public/build/
+npm-debug.log
+npm-debug.log.*
+.DS_Store
+.env
+.idea/
